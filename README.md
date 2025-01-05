@@ -49,24 +49,16 @@
 ![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:17:02_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:15:59_image.png)
 
-5. 公寓资产管理![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:19:47_image.png)
+5. 公寓资产管理
+![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:19:47_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:18:25_image.png)
 
-6.资产损坏管理![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:21:18_image.png)
+6.资产损坏管理
+![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:21:18_image.png)
 ![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:21:34_image.png)
-6.资产新增7管理
-![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:22:51_image.png)
 
-7.缴费信息管理
-![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:27:20_image.png)
-![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:24:29_image.png)
-7.清理公共场所管理
-![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:32:29_image.png)
-7. 日常事务管理
-![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:35:57_image.png)
-![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:34:25_image.png)
 
-8. 床位安排![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:37:35_image.png)
+7. 床位安排![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2014:37:35_image.png)
 
 **管理员功能图：**
 1. 登录![image.png](https://pic.picprosol.com/user_upload/c01022ce6584417ca74259d62eeeaa0b/2024-12-25%2011:33:35_image.png)
